@@ -1,5 +1,3 @@
-**⚠️ This GitHub repo will retire on 31st October 2025.**
-
 # MB-280T03: Dynamics 365 Customer Insights で強力なカスタマー エクスペリエンスを設計して提供する
 
 このリポジトリには、Microsoft スキルアップ コンテンツの演習とサポート ファイルが含まれています。
