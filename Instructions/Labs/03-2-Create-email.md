@@ -1,6 +1,10 @@
 ---
 lab:
   title: 'ラボ 3.2: メールの作成'
+  description: このラボは完了するまで、約 45 分かかります。
+  duration: 45 minutes
+  level: 100
+  islab: true
 ---
 
 # ラーニング パス 3: Dynamics 365 Customer Insights - Journeys で顧客とアセットを管理する

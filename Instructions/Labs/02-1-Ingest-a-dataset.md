@@ -1,6 +1,10 @@
 ---
 lab:
   title: 'ラボ 2.1: データセットの取り込み'
+  description: Contoso Retail のプロジェクト マネージャーとして、顧客データの主要なソースを取り込み、マップ、照合、マージの各プロセスに従って、統一された顧客プロファイルを作成します。 このラボでは、データを取り込みます。 次のラボでは、データを統合します。
+  duration: 45 minutes
+  level: 300
+  islab: true
 ---
 
 # モジュール 2: Dynamics 365 Customer Insights - Data へのデータの取り込み
