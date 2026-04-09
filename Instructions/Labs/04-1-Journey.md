@@ -1,6 +1,10 @@
 ---
 lab:
   title: 'ラボ 4.1: トリガーに基づく体験を作成する'
+  description: 3 つのメールを作成したので、次は顧客にメールを送信する体験を作成します。 今後の Airpot Smart Machine のコーヒーメーカーについて知らせるために、顧客に最初のメールを送信します。
+  duration: 15 minutes
+  level: 100
+  islab: true
 ---
 
 # ラーニング パス 4: 体験を作成する

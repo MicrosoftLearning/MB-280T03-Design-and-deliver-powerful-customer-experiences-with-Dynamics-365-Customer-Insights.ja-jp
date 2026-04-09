@@ -1,6 +1,12 @@
 ---
 lab:
   title: 'ラボ 0: 環境を設定する'
+  description: この付録には、前提条件など、Dynamics 365 Customer Insights 環境をプロビジョニングおよび構成するステップバイステップの手順が含まれています。
+  duration: 10 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Dynamics 365
 ---
 
 # ラボ 0: 環境を設定する
